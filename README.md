@@ -14,7 +14,7 @@
 - i3lock-color
 - Picom
 - Neofetch
-    ![preview](https://i.imgur.com/kJfzWsN.png)
+    - ![preview](https://i.imgur.com/kJfzWsN.png)
 ## Themes
 - Discord
     - The theme I use for discord is called [Tokyo Nights](https://betterdiscord.app/theme/Tokyo%20Night). I use betterdiscord to install the theme.
