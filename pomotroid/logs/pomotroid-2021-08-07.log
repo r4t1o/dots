@@ -1,7 +1,0 @@
-{"message":"Preferences loaded from /home/errxr/.config/pomotroid/user-preferences.json","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:29.692Z"}
-{"message":"app ready","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:29.755Z"}
-{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:29.834Z"}
-{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:29.835Z"}
-{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:29.835Z"}
-{"message":"Preferences loaded from /home/errxr/.config/pomotroid/user-preferences.json","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:30.070Z"}
-{"message":"quitting app...","level":"info","hostname":"edge","timestamp":"2021-08-07T17:46:31.379Z"}
