@@ -1,0 +1,15 @@
+{
+    "name": "test",
+    "colors": {
+      "--color-long-round": "#c2c5ff",
+      "--color-short-round": "#c2c5ff",
+      "--color-focus-round": "#c2c5ff",
+      "--color-background": "#ffffff",
+      "--color-background-light": "#0F111A",
+      "--color-background-lightest": "#57659e",
+      "--color-foreground": "#c2ceff",
+      "--color-foreground-darker": "#59607a",
+      "--color-foreground-darkest": "#0F111A",
+      "--color-accent": "#737aff"
+    }
+  }
