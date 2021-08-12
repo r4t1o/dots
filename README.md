@@ -5,12 +5,16 @@
 ## Packages
 - i3-gaps
     - I use i3-gaps rounded corners version, along with picom to achive nice rounded corners.
+    ![preview](https://i.imgur.com/9ffIo3C.png)
 - Polybar
+    ![preview](https://i.imgur.com/i9E9MsN.png)
 - Rofi
 - Dunst
 - MPD & Ncmpcpp
 - i3lock-color
 - Picom
+- Neofetch
+    ![preview](https://i.imgur.com/kJfzWsN.png)
 ## Themes
 - Discord
     - The theme I use for discord is called [Tokyo Nights](https://betterdiscord.app/theme/Tokyo%20Night). I use betterdiscord to install the theme.
