@@ -26,6 +26,7 @@
     ![preview](https://i.imgur.com/SdAbZsE.png)
 - Kitty
     - I made the kitty colorscheme, dark background with some vibrant and pastel colors. 
+    ![preview](https://i.imgur.com/osvkLcC.png)
 - VScode
     - Visual Studio code theme is made using [themer](https://themer.dev/).
 - GTK
