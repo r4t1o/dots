@@ -4,10 +4,10 @@ o1=""
 o2=""
 o3="⏼"
 o4=""
-a1="Yes"
-a2="No"
+a1=""
+a2=""
 option="$o4\n$o1\n$o3\n$o2\n$o0"
-answer="$a2\n$a1"
+answer="$a1\n$a2"
 chosen="$(echo -e "$option" | rofi -theme ~/.config/rofi/powermenu/powermenu.rasi -lines 5 -dmenu)"
 if [ -z "$chosen" ]; then
 				exit
