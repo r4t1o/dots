@@ -2,17 +2,26 @@
 
 ![preview](https://i.imgur.com/oFDikYp.png)
 
+## Packages
+- i3-gaps
+    - I use i3-gaps rounded corners version, along with picom to achive nice rounded corners.
+- Polybar
+- Rofi
+- Dunst
+- MPD & Ncmpcpp
+- i3lock-color
+- Picom
 ## Themes
-### Discord
-The theme I use for discord is called [Tokyo Nights](https://betterdiscord.app/theme/Tokyo%20Night). I use betterdiscord to install the theme.
-### Kitty
-I made the kitty colorscheme, dark background with some vibrant and pastel colors. 
-### VScode
-Visual Studio code theme is made using [themer](https://themer.dev/).
-### GTK
-GTK theme is from this [repository](https://github.com/koiosdev/Tokyo-Night-Linux).
-### Pomotroid
-Pomotroid theme is my own.
+- Discord
+    - The theme I use for discord is called [Tokyo Nights](https://betterdiscord.app/theme/Tokyo%20Night). I use betterdiscord to install the theme.
+- Kitty
+    - I made the kitty colorscheme, dark background with some vibrant and pastel colors. 
+- VScode
+    - Visual Studio code theme is made using [themer](https://themer.dev/).
+- GTK
+    - GTK theme is from this [repository](https://github.com/koiosdev/Tokyo-Night-Linux).
+- Pomotroid
+    - Pomotroid theme is my own.
 
 ## Wallpaper
 ### Original
