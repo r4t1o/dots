@@ -4,7 +4,7 @@
 
 ## Themes
 ### Discord
-The theme I use for discord is called [Tokyo Nights](https://github.com/koiosdev/Tokyo-Night-Linux). I use betterdiscord to install the theme.
+The theme I use for discord is called [Tokyo Nights](https://betterdiscord.app/theme/Tokyo%20Night). I use betterdiscord to install the theme.
 ### Kitty
 I made the kitty colorscheme, dark background with some vibrant and pastel colors. 
 ### VScode
