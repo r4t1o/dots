@@ -1,0 +1,70 @@
+execute_on_song_change="~/.ncmpcpp/ncmpcpp-ueberzug/./ncmpcpp_cover_art.sh"
+#execute_on_player_state_change="~/.ncmpcpp/ncmpcpp-ueberzug/./state.sh"
+#execute_on_song_change = "~/.ncmpcpp/art.sh"
+
+mpd_music_dir = "~/Music"  
+lyrics_directory  = ~/.ncmpcpp/lyrics
+ncmpcpp_directory  = ~/.ncmpcpp
+mpd_host = "localhost"
+mpd_port = "6600"  
+mpd_connection_timeout = "5"  
+mpd_crossfade_time = "5"  
+
+mouse_list_scroll_whole_page = "yes"
+lines_scrolled = "1"
+
+visualizer_data_source = "/tmp/mpd.fifo"
+visualizer_output_name = "Visualizer"
+visualizer_in_stereo = "yes"
+visualizer_type = "ellipse"
+visualizer_look = "●●"
+visualizer_color = "white, white, black, white, red"
+
+message_delay_time = "3"
+playlist_shorten_total_times = "yes"
+playlist_display_mode = "columns"
+browser_display_mode = "columns"
+search_engine_display_mode = "columns"
+playlist_editor_display_mode = "columns"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+user_interface = "classic"
+follow_now_playing_lyrics = "yes"
+locked_screen_width_part = "60"
+display_bitrate = "no"
+external_editor = "nano"
+main_window_color = "black"
+
+progressbar_elapsed_color = 6
+progressbar_color = "black"
+
+progressbar_look = ""
+
+mouse_support = "yes"
+header_visibility = "no"
+
+statusbar_visibility = "yes"
+statusbar_color = 1
+statusbar_time_color = 3:b
+titles_visibility = "no"
+enable_window_title = "yes"
+
+# UI FORMAT
+now_playing_prefix = " $b$4"
+now_playing_suffix = "$/b"
+current_item_prefix = "$/b$3樂"
+#current_item_prefix = "$/b$b[ $7$8 ]$/b "
+
+song_columns_list_format = "(25)[5]{a} (34)[9]{t|f} (5f)[3]{l} (1)[]{}"
+
+color1 = "white"
+color2 = "blue"
+
+
+
+song_list_format = " %t $R%a │                     "
+
+song_library_format = $/b{{%a - %t} (%b)}|{%f}
+
+song_status_format = " $5%t $0 "
+song_window_title_format = "  {%a}  {%t}"

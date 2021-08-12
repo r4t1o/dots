@@ -1,0 +1,44 @@
+configuration {
+  //drun-icon-theme: "Papirus";
+  //show-icons: true;
+  font: "DejavuSansMono NF 50";
+}
+
+* {
+  transparency: "real";
+  background-color: #00000000;
+  backgorund: #222222;
+  text-color: #4f537d;
+  selected-normal-background: #5294e290;  
+  window-border: #676E7D;
+  foreground: #4f537d;
+
+}
+window {
+  background-color: #22222244;
+  fullscreen: true;
+  position: center;
+  anchor: center;
+}
+
+mainbox {
+  children: [listview];
+}
+
+listview {
+  cycle: true;
+  spacing: 0.1em;
+  padding: 42% 14% 32% 32%;
+  layout: horizontal;
+}
+
+element {
+	orientation: horizontal;
+	padding: 0.5em;
+}
+
+
+element selected {
+  text-color: #77DD77;
+}
+

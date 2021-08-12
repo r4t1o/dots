@@ -1,0 +1,3 @@
+#!/bin/sh
+
+kitty -o initial_window_width=640 -o initial_window_height=300 --class music -e ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug
