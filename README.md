@@ -5,7 +5,7 @@
 ## Packages
 - i3-gaps
     - I use i3-gaps rounded corners version, along with picom to achive nice rounded corners.
-    ![preview](https://i.imgur.com/9ffIo3C.png)
+    - ![preview](https://i.imgur.com/9ffIo3C.png)
 - Polybar
     ![preview](https://i.imgur.com/i9E9MsN.png)
 - Rofi
