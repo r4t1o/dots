@@ -10,8 +10,8 @@
     ![preview](https://i.imgur.com/i9E9MsN.png)
 - Rofi
     <p float="left">
-    <img src="https://i.imgur.com/svXmRN5.png" width="370" />
-    <img src="https://i.imgur.com/0zuZIFZ.png" width="370" /> 
+    <img src="https://i.imgur.com/svXmRN5.png" width="385" />
+    <img src="https://i.imgur.com/0zuZIFZ.png" width="385" /> 
     <img src="https://i.imgur.com/JuNtdIE.png" width="800" />
     </p>
 - Dunst
