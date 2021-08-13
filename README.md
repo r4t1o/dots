@@ -18,6 +18,7 @@
 - MPD & Ncmpcpp
 - i3lock-color
 - Picom
+    - I am using picom-jonaburg-git version, this picom version provides animation.
 - Neofetch
     - ![preview](https://i.imgur.com/kJfzWsN.png)
 ## Themes
