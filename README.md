@@ -1,4 +1,4 @@
-# Work in progress
+# Preview
 
 ![preview](https://i.imgur.com/oFDikYp.png)
 
