@@ -2,6 +2,7 @@
 #!/usr/bin/env bash
 
 ## welcome the the shack
+# --greeter-text="$(mpc $current | head -n 1)"			\
 
 ## Get colors -----------------
 FG="#f5f5f3"
@@ -52,7 +53,7 @@ i3lock \
 --{layout,verif,wrong,greeter}-size=18							\
 --time-size=34													\
 --date-size=18													\
---greeter-text=""			\
+--greeter-text="$(musicstat)"			\
 --greeter-color=${WHITE}				\
 --verif-text="verifying..."			\
 --wrong-text="wrong!"				\
